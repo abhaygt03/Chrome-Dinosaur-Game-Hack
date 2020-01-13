@@ -1,0 +1,13 @@
+Press ctrl+Shift+j in chrome to open the console-
+
+Run the following commands in the Console.
+
+1.>To become immortal:
+	Runner.instance_.gameOver=()=>{console.log("Tricked");}
+
+2.>To increase the accelaration:
+	Runner.config.ACCELERATION=15   //Specify any value
+
+3.>To increase change the speed:
+	Runner.config.SPEED=15          //Specify some value here
+
