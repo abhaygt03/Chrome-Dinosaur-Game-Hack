@@ -6,8 +6,8 @@ Run the following commands in the Console.
 	Runner.instance_.gameOver=()=>{console.log("Tricked");}
 
 2.>To increase the accelaration:
-	Runner.config.ACCELERATION=15   //Specify any value
+	Runner.config.ACCELERATION=15   //Specify any value.
 
 3.>To increase change the speed:
-	Runner.config.SPEED=15          //Specify some value here
+	Runner.config.SPEED=15          //Specify some value here.
 
